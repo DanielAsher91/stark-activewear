@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/stark-activewear/static/css/main.fa4acf3c.css",
-    "main.js": "/stark-activewear/static/js/main.0e8b612c.js",
+    "main.js": "/stark-activewear/static/js/main.bb22099f.js",
     "static/js/787.806ffc5f.chunk.js": "/stark-activewear/static/js/787.806ffc5f.chunk.js",
-    "static/media/Clip2W.mp4": "/stark-activewear/static/media/Clip2W.33901be90643a8b7dc9e.mp4",
+    "static/media/starkV.mp4": "/stark-activewear/static/media/starkV.f2d2dab598d3ab9067f9.mp4",
     "static/media/registerPic.png": "/stark-activewear/static/media/registerPic.0914d801411a4bf43ceb.png",
     "static/media/blackStark.PNG": "/stark-activewear/static/media/blackStark.d1fffce50637bcaedfdf.PNG",
     "static/media/img2.png": "/stark-activewear/static/media/img2.848e7c2b18df4d46aeca.png",
@@ -11,11 +11,11 @@
     "static/media/img1.png": "/stark-activewear/static/media/img1.0fcf3d6a4de0b9f31085.png",
     "index.html": "/stark-activewear/index.html",
     "main.fa4acf3c.css.map": "/stark-activewear/static/css/main.fa4acf3c.css.map",
-    "main.0e8b612c.js.map": "/stark-activewear/static/js/main.0e8b612c.js.map",
+    "main.bb22099f.js.map": "/stark-activewear/static/js/main.bb22099f.js.map",
     "787.806ffc5f.chunk.js.map": "/stark-activewear/static/js/787.806ffc5f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa4acf3c.css",
-    "static/js/main.0e8b612c.js"
+    "static/js/main.bb22099f.js"
   ]
 }
